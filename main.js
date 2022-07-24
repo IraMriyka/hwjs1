@@ -1,0 +1,51 @@
+let a = 'hello';
+console.log(a);
+alert(a);
+let b = 'owu';
+console.log(b);
+alert(b);
+let c = 'com';
+console.log(c);
+alert(c);
+let d = 'ua';
+console.log(d);
+alert(d);
+let e = 1;
+console.log(e);
+alert(e);
+let f = 10;
+console.log(f);
+alert(f);
+let g = -999;
+console.log(g);
+alert(g);
+let h = 123;
+console.log(h);
+alert(h);
+let i = 3.14;
+console.log(i);
+alert(i);
+let j = 2.7;
+console.log(j);
+alert(j);
+let k = 16;
+console.log(k);
+alert(k);
+let bool1 = true;
+console.log(bool1);
+alert(bool1);
+let bool2 = false;
+console.log(bool2);
+alert(bool2);
+let firstName = 'Ірина';
+let middleName = 'Михайлівна';
+let lastName = 'Коваль';
+let person = firstName + ' ' + middleName + ' ' + lastName;
+console.log(person)
+let space = ' '
+document.write(a + space + b + space + c + space + d + space + e + space + f + space + g + space + h + space + i + space + j + space + k + space + bool1 + space + bool2)
+let n = 100;
+console.log(typeof n);
+let m = '100';
+console.log(typeof m);
+console.log(n == m)
